@@ -31,5 +31,3 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> </a> </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=annihilatorrrr)
-
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/annihilatorrrr/&title=Profile%20Views&edge_flat=true)](https://github.com/annihilatorrrr)
