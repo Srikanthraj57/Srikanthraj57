@@ -13,8 +13,8 @@
 ---
 
 # 🔗 Contanct me via:
-<a href="https://github.com/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
-<a href="https://telegram.dog/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> 
+<a href="https://github.com/Srikanthraj57"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
+<a href="https://telegram.dog/Srikanth_36"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> 
 <a href="mailto:tanmoyomg7@gmail.com"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
 </br>
 ---
