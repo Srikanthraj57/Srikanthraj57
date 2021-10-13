@@ -3,7 +3,7 @@
 
 
 ##   **Github Stats**
-![Queen Github stats](https://github-readme-stats.vercel.app/api?username=Srikanth57&show_icons=true&theme=tokyonight)
+![Queen Github stats](https://github-readme-stats.vercel.app/api?username=Srikanth&show_icons=true&theme=tokyonight)
 
 ### Let's connect!
 <p>
