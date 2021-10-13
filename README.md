@@ -3,12 +3,12 @@
 
 
 ##   **Github Stats**
-![Queen Github stats](https://github-readme-stats.vercel.app/api?username=Shaurya1234raj&show_icons=true&theme=tokyonight)
+![Queen Github stats](https://github-readme-stats.vercel.app/api?username=Srikanth57&show_icons=true&theme=tokyonight)
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/Alone_Shaurya_king" target="blank"><img src="https://img.shields.io/badge/Attitude King-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/attitudesreel" target="blank"><img src="https://img.shields.io/badge/Attitude king-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://t.me/Srikanth_36" target="blank"><img src="https://img.shields.io/badge/Attitude King-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/srikanth" target="blank"><img src="https://img.shields.io/badge/Attitude king-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
